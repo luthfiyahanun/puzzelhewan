@@ -1,6 +1,6 @@
 
 # 🧩 Proyek Puzzle Jigsaw Hewan - Kelas 2 SD
-https://puzzel.org/id/jigsaw/play?p=-OOQlkUtbWUhjRXraj87
+
 
 Selamat datang di proyek **Puzzle Jigsaw Hewan**!  
 Proyek ini dirancang khusus untuk siswa kelas 2 sekolah dasar agar dapat belajar mengenal berbagai jenis hewan sambil mengasah keterampilan motorik halus dan berpikir logis mereka.
