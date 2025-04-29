@@ -13,6 +13,7 @@ Proyek ini dirancang khusus untuk siswa kelas 2 sekolah dasar agar dapat belajar
 - Melatih koordinasi mata dan tangan melalui permainan puzzle.
 - Meningkatkan konsentrasi, kesabaran, dan ketelitian.
 - Menumbuhkan rasa cinta terhadap makhluk hidup dan alam sekitar.
+
 link puzzel
 https://puzzel.org/id/jigsaw/play?p=-OOQlkUtbWUhjRXraj87
 
